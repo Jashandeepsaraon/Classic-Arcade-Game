@@ -1,0 +1,25 @@
+{
+  "name": "git-project",
+  "version": "1.0.0",
+  "description": "- [Instructions](#instructions)\r - [Contributing](#contributing)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jashandeepsaraon/Classic-Arcade-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jashandeepsaraon/Classic-Arcade-Game/issues"
+  },
+  "homepage": "https://github.com/Jashandeepsaraon/Classic-Arcade-Game#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.0.0"
+  }
+}
